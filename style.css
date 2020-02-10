@@ -106,4 +106,9 @@ body{
     text-align: center;
     font-family:'Poppins',sans-serif;
 }
-
+.mail:hover{
+    color: beige;
+}
+.tel:hover{
+    color: beige
+}
