@@ -1,11 +1,9 @@
 # {Portfolio}
 #### {Brief description of application}, {Date of current version}
 It is a short discription of my background, who i am, where am from,my levels of education,my intrests,hobbies and skills
-##{Author} Reuben Gathii
+{Author} Reuben Gathii
 #### By **{List of contributors}**
-##{Link to Github pages}https://reuben357.github.io/portfolio/
-
-
+{Link to Github pages}https://reuben357.github.io/portfolio/
 
 ## Technologies Used
 I used HTML and CSS and imported some font from ('https://fonts.googleapis.com/css?family=Poppins&display=swap');
